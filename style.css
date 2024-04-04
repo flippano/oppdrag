@@ -1,0 +1,11 @@
+#errorBox {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 300px;
+    background-color: #f8d7da;
+    color: #721c24;
+    border-color: #f5c6cb;
+    padding: 10px;
+    border-radius: 5px;
+}
